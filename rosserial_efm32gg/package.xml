@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package format="2">
+
+  <name>efm32gg</name>
+  <version>0.0.0</version>
+  <description>rosserial for the efm32gg from silicon labs</description>
+  <author>Aksel Lenes</author>
+  <maintainer email="akslenes@gmai.com">Aksel Lenes</maintainer>
+  <license>MIT</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+</package>
